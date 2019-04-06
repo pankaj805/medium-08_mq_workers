@@ -1,0 +1,27 @@
+{
+  "name": "medium-08_mq_workers",
+  "version": "1.0.0",
+  "description": "This project is made to provide sample code for a medium article",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pankaj805/medium-08_mq_workers.git"
+  },
+  "keywords": [
+    "node",
+    "node.js",
+    "rabbitmq"
+  ],
+  "author": "Pankaj Panigrahi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pankaj805/medium-08_mq_workers/issues"
+  },
+  "homepage": "https://github.com/pankaj805/medium-08_mq_workers#readme",
+  "dependencies": {
+    "amqplib": "^0.5.3"
+  }
+}
